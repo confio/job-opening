@@ -1,9 +1,10 @@
-# job-opening
+# Job Openings
+
 We are looking for a good Rust developer to write contracts and a solid frontend developer to build dApps.
 
-< Rust Engineer bringing Smart Contracts to life >
+**Rust Engineer bringing Smart Contracts to life**
 
-The Role
+### The Role
 
 CosmWasm is a smart contract container written in Rust. We have a core team that have written the container and are making it accessible through javascript libraries.
 
@@ -13,7 +14,7 @@ In addition you will be designing and writing custom contracts from the ground u
 
 This is a fully remote role with a team dotted around Europe.
 
-What you bring
+### What you bring
 
 You have a solid track record in Rust and have a good understanding of Smart Contracts, ideally gained in Ethereum. 
 
@@ -21,11 +22,11 @@ You are a good communicator and fluent in English.
 
 You are within 2 hours of Central European Time as the rest of the team are based in CET.  You are comfortable working remotely and are familiar with the toolset of a remote worker (messaging, video etc).
 
-How to Apply
+### How to Apply
 
 Please send your CV, a cover letter, and a link to your GitHub profile to hr@confio.tech
 
-About CosmWasm
+### About CosmWasm
 
 CosmWasm is a new smart contracting platform built for the cosmos ecosystem.
 
@@ -35,11 +36,10 @@ Since then CosmWasm has developed into a robust platform and has been integrated
 The team building CosmWasm are experts in their field and have bold ambitions for the product.
 
 
+**Frontend UI developer (Vue or React) bringing SmartContracts to life**
 
-< Frontend UI developer (Vue or React) bringing SmartContracts to life >
 
-
-The Role
+### The Role
 
 A key role in building web applications that interact with smart contracts on the Cosmos Blockchain that run in the CosmWasm container. The groundwork has begun with the advent of CosmJS that is a nice library that interacts with the blockchain, and is being developed by Confio with contributions from the wider community.
 
@@ -49,7 +49,7 @@ Some of the longer term goals are to build production web apps for a production 
 
 This is a fully remote role with a team dotted around Europe.
 
-What you bring
+### What you bring
 
 You have a track record in building beautiful web apps using a modern JS framework such as Vue or React.
 
@@ -57,11 +57,11 @@ We are looking for solid development experience first, and if you have experienc
 
 You are within 2 hours of Central European Time as the rest of the team are based in CET.  You are comfortable working remotely and are familiar with the toolset of a remote worker (messaging, video etc).
 
-How to Apply
+### How to Apply
 
 Please send your CV, a cover letter, links to work you have done and a link to your GitHub profile to hr@confio.tech
 
-About CosmWasm
+### About CosmWasm
 
 CosmWasm is a new smart contracting platform built for the cosmos ecosystem.
 
