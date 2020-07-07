@@ -35,7 +35,9 @@ Since then CosmWasm has developed into a robust platform and has been integrated
 The team building CosmWasm are experts in their field and have bold ambitions for the product.
 
 
+
 < Frontend UI developer (Vue or React) bringing SmartContracts to life >
+
 
 The Role
 
