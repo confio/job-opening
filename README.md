@@ -1,8 +1,8 @@
-# Job Openings
+# Job Openings (1. Rust Engineer, 2. Senior React Engineer, 3. Javascript Evangelist)
 
-We are looking for a good Rust developer to write contracts and a solid frontend developer to build dApps.
+We are looking for a good Rust engineer, senior React engineer and a Javascript evangelist.
 
-**Rust Engineer bringing Smart Contracts to life**
+## 1. **Rust Engineer bringing Smart Contracts to life**
 
 ### The Role
 
@@ -22,17 +22,45 @@ You are a good communicator and fluent in English.
 
 You are within 2 hours of Central European Time as the rest of the team are based in CET.  You are comfortable working remotely and are familiar with the toolset of a remote worker (messaging, video etc).
 
+## 2. **Senior React Engineer**
+
+### The Role
+
+We are looking for a Senior React Engineer to join our team. To make blockchains accessible we need to build some stunning UIs that abstract the complexity, luckily we have built some lovely libraries to help build web apps that interact with the blockchain.
+You will be working with the infrastructure team and help shape the APIs and build some cutting edge UIs to showcase the power of our smart contracts.
+This is a permanent role and we want you develop and grow with us on our journey from start-up to a mature business.
+
+### What you bring
+
+Your profile has a strong React and Typescript track record, and you are comfortable around modern CSS and github (or gitlab). It would be really good if you have experience in React Native, but if you don’t that is okay too.
+You will have had experience of leading and mentoring team members.
+
+## 3. **Javascript Evangelist**
+
+### The Role
+
+We are looking for a Javascript Evangelist to join our team. We have a growing community around our blockchain that are writing smart contracts, and what we need for mass adoption is a community of web app builders to bring it to life (nobody wants to fiddle with commands in a linux shell).
+You will be working with our team, both the tech people and marketing to develop workshops, build prototypes, write articles, and get the word out far and wide about our libraries making the blockchain accessible to web developers. 
+We are building tools to make it simple to build web apps around our smart contracts to make them easy to use and breakdown the barriers to blockchain.
+This is a permanent role, and we want you develop and grow with us on our journey from start-up to a mature business.
+
+### What you bring
+
+Your profile has a minimum of 2 years’ experience with hands on Javascript and Typescript, preferably in an Open Source environment. It would be brilliant if you have worked with blockchain projects, but it is not a problem if you haven’t as long as you are keen to learn. You have good spoken and written English, and if you know more languages that is a big plus.
+As the role is an evangelist role, you must demonstrate that you are eager to learn new technologies and teach other developers. If you have a blog or contribute to forums that would be an advantage.
+It would be nice to have experience with Tendermint or Cosmos SDK experience or past developer evangelism experience, but this is not a requirement.
+
+
 ### How to Apply
 
-Please send your CV, a cover letter, and a link to your GitHub profile to hr@confio.tech
+Please send your CV, a short cover letter, your salary expectations and a link to your GitHub profile or equivalent to hr@confio.tech
 
-### About CosmWasm
+### About Confio
 
-CosmWasm is a new smart contracting platform built for the cosmos ecosystem.
+The Team
+Confio are a small team of mostly software engineers, who are experts in their field with a strong track record. While we are scattered around Europe we are a very close team and make remote working work for us.
 
-CosmWasm was originally prototyped by Team Gaians at the Berlin Hackatom 2019. In particular, Aaron Craelius came up with the architecture, especially avoiding reentrancy, Jehan Tremback led the rust coding, and Ethan Frey led the go side of the implementation. After the successful prototype, the Interchain Foundation provided a grant to Confio to implement a robust version that would work in an adversarial environment.
-
-Since then CosmWasm has developed into a robust platform and has been integrated into 6 blockchains on their testnets.
-The team building CosmWasm are experts in their field and have bold ambitions for the product.
+The Company
+Confio has big ambitions to build a self-sovereign, regulated, decentralised finance blockchain. We are experts in our field and have built a smart contract engine for the Cosmos Blockchain ecosystem and are launching our own blockchain in Q1 2021 to support the business.
 
 
