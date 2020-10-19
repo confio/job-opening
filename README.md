@@ -1,4 +1,4 @@
-# Job Openings (1. Rust Engineer, 2. Senior React Engineer, 3. Javascript Evangelist)
+# Job Openings (1. Rust Engineer, 2. Go Engineer, 3. Senior React Engineer, 4. Javascript Evangelist)
 
 We are looking for a good Rust engineer, senior React engineer and a Javascript evangelist.
 
@@ -22,7 +22,23 @@ You are a good communicator and fluent in English.
 
 You are within 2 hours of Central European Time as the rest of the team are based in CET.  You are comfortable working remotely and are familiar with the toolset of a remote worker (messaging, video etc).
 
-## 2. **Senior React Engineer**
+## 2. **Go Engineer**
+
+### The Role
+
+We are looking for a Go Engineer to join our team based in Europe and we ask that you are with 2 hours of CET.
+You will be working with our team on the core development of our blockchain, with a focus on regulated DeFi, that we are building with the Cosmos SDK and the interaction with CosmWasm, our smart contract engine. 
+We are innovating in the blockchain space and pushing what is possible from both a technical and a business aspect. Our business and tech teams work closely together to solve some difficult challenges and develop ideas.
+This is a permanent role, and we want you develop and grow with us on our journey from start-up to a mature business.
+
+### What you bring
+
+Your profile as a Go Engineer with a track record, preferably in the Open Source space. You can demonstrate expertise in the Go language, have knowledge of Kubernetes, Github or Gitlab.
+You love solving engineering problems, have good written and spoken English, and have an interest in blockchain.
+It would be nice to have experience with Tendermint or Cosmos SDK experience or past blockchain experience, but this is not a requirement.
+
+
+## 3. **Senior React Engineer**
 
 ### The Role
 
@@ -35,7 +51,7 @@ This is a permanent role and we want you develop and grow with us on our journey
 Your profile has a strong React and Typescript track record, and you are comfortable around modern CSS and github (or gitlab). It would be really good if you have experience in React Native, but if you don’t that is okay too.
 You will have had experience of leading and mentoring team members.
 
-## 3. **Javascript Evangelist**
+## 4. **Javascript Evangelist**
 
 ### The Role
 
