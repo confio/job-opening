@@ -1,6 +1,7 @@
-# Job Openings (1. Rust Engineer, 2. Go Engineer, 3. Senior React Engineer, 4. Javascript Evangelist)
+# Job Openings (1. Rust Engineer, 2. Senior React Engineer, 3. UX designer)
 
-We are looking for a good Rust engineer, senior React engineer and a Javascript evangelist.
+We are looking for a good Rust engineer, senior React engineer and a UX designer.
+
 
 ## 1. **Rust Engineer bringing Smart Contracts to life**
 
@@ -22,23 +23,8 @@ You are a good communicator and fluent in English.
 
 You are within 2 hours of Central European Time as the rest of the team are based in CET.  You are comfortable working remotely and are familiar with the toolset of a remote worker (messaging, video etc).
 
-## 2. **Go Engineer**
 
-### The Role
-
-We are looking for a Go Engineer to join our team based in Europe and we ask that you are with 2 hours of CET.
-You will be working with our team on the core development of our blockchain, with a focus on regulated DeFi, that we are building with the Cosmos SDK and the interaction with CosmWasm, our smart contract engine. 
-We are innovating in the blockchain space and pushing what is possible from both a technical and a business aspect. Our business and tech teams work closely together to solve some difficult challenges and develop ideas.
-This is a permanent role, and we want you develop and grow with us on our journey from start-up to a mature business.
-
-### What you bring
-
-Your profile as a Go Engineer with a track record, preferably in the Open Source space. You can demonstrate expertise in the Go language, have knowledge of Kubernetes, Github or Gitlab.
-You love solving engineering problems, have good written and spoken English, and have an interest in blockchain.
-It would be nice to have experience with Tendermint or Cosmos SDK experience or past blockchain experience, but this is not a requirement.
-
-
-## 3. **Senior React Engineer**
+## 2. **Senior React Engineer**
 
 ### The Role
 
@@ -51,25 +37,31 @@ This is a permanent role and we want you develop and grow with us on our journey
 Your profile has a strong React and Typescript track record, and you are comfortable around modern CSS and github (or gitlab). It would be really good if you have experience in React Native, but if you don’t that is okay too.
 You will have had experience of leading and mentoring team members.
 
-## 4. **Javascript Evangelist**
+
+## 3. **UX designer**
 
 ### The Role
 
-We are looking for a Javascript Evangelist to join our team. We have a growing community around our blockchain that are writing smart contracts, and what we need for mass adoption is a community of web app builders to bring it to life (nobody wants to fiddle with commands in a linux shell).
-You will be working with our team, both the tech people and marketing to develop workshops, build prototypes, write articles, and get the word out far and wide about our libraries making the blockchain accessible to web developers. 
-We are building tools to make it simple to build web apps around our smart contracts to make them easy to use and breakdown the barriers to blockchain.
-This is a permanent role, and we want you develop and grow with us on our journey from start-up to a mature business.
+Do you want to have an impact on a thriving space in its earliest stages of Decentralized Finance? We are looking for a highly creative and enthusiastic UX Designer to join our team at Confio. We need designer who can research and design end-to-end, intuitive interfaces throughout the entire design workflow from mapping out user journeys, creating high level wireframes to high fidelity mockups and working with frontend team to implement solutions. We’re looking for highly motivated self-starter with an eagle eye for details. This is a permanent role and we want you develop and grow with us on our journey from start-up to a mature business.
 
 ### What you bring
 
-Your profile has a minimum of 2 years’ experience with hands on Javascript and Typescript, preferably in an Open Source environment. It would be brilliant if you have worked with blockchain projects, but it is not a problem if you haven’t as long as you are keen to learn. You have good spoken and written English, and if you know more languages that is a big plus.
-As the role is an evangelist role, you must demonstrate that you are eager to learn new technologies and teach other developers. If you have a blog or contribute to forums that would be an advantage.
-It would be nice to have experience with Tendermint or Cosmos SDK experience or past developer evangelism experience, but this is not a requirement.
+•	You have extended experience with the entire UX design cycle
+•	Portfolio showing strong UX and visual design work
+•	Ability to effectively communicate relevant design processes, ideas and solutions to team
+•	You can synthesize ideas into concrete design implications 
+•	You have experience with Zeplin or Figma, Adobe CC and similar design software
+
+### Bonus points: Blockchain or fintech experience 
+Last but not least going above and beyond the job description to support the team (and the company) success.
+
+### Full remote job
+The flexibility of a 100% remote role (We’re looking for candidates located +/- 2h Berlin time zone). 
 
 
 ### How to Apply
 
-Please send your CV, a short cover letter, your salary expectations and a link to your GitHub profile or equivalent to hr@confio.tech
+Please send your CV, a short cover letter, your salary expectations and a link to your GitHub profile or equivalent to bart@confio.gmbh
 
 ### About Confio
 
