@@ -21,7 +21,7 @@ You have a solid track record in Rust and have a good understanding of Smart Con
 
 You are a good communicator and fluent in English.
 
-You are within 2 hours of Central European Time as the rest of the team are based in CET.  You are comfortable working remotely and are familiar with the toolset of a remote worker (messaging, video etc).
+You are within 2 hours of Berlin Time as the rest of the team are based in CET.  You are comfortable working remotely and are familiar with the toolset of a remote worker (messaging, video etc).
 
 
 ## 2. **Senior React Engineer**
