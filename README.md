@@ -47,9 +47,13 @@ Do you want to have an impact on a thriving space in its earliest stages of Dece
 ### What you bring
 
 •	You have extended experience with the entire UX design cycle
-•	Portfolio showing strong UX and visual design work
-•	Ability to effectively communicate relevant design processes, ideas and solutions to team
+
+•	You have portfolio showing strong UX and visual design work
+
+•	You are able to effectively communicate relevant design processes, ideas and solutions to team
+
 •	You can synthesize ideas into concrete design implications 
+
 •	You have experience with Zeplin or Figma, Adobe CC and similar design software
 
 ### Bonus points: Blockchain or fintech experience 
