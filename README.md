@@ -1,6 +1,6 @@
-# Job Openings (1. Rust Engineer, 2. Senior React Engineer, 3. UX designer)
+# Job Openings (1. Rust Engineer, 2. Senior React Engineer, 3. Community Manager)
 
-We are looking for a good Rust engineer, senior React engineer and a UX designer.
+We are looking for a good Rust engineer, senior React engineer and a community manager.
 
 
 ## 1. **Rust Engineer bringing Smart Contracts to life**
@@ -38,26 +38,32 @@ Your profile has a strong React and Typescript track record, and you are comfort
 You will have had experience of leading and mentoring team members.
 
 
-## 3. **UX designer**
+## 3. **Community Manager**
 
 ### The Role
 
-Do you want to have an impact on a thriving space in its earliest stages of Decentralized Finance? We are looking for a highly creative and enthusiastic UX Designer to join our team at Confio. We need designer who can research and design end-to-end, intuitive interfaces throughout the entire design workflow from mapping out user journeys, creating high level wireframes to high fidelity mockups and working with frontend team to implement solutions. We’re looking for highly motivated self-starter with an eagle eye for details. This is a permanent role and we want you develop and grow with us on our journey from start-up to a mature business.
+We are looking for an enthusiastic community manager to join us, Confio. We are the team behind some important products in the Cosmos ecosystem, and are currently building our own blockchain, Tgrade. Tgrade is aimed at bridging regulations and DeFi. We need someone who can jump between our Cosmos products and our chain, managing the communities gathered around our products. If you are a “people person” with nice customer service skills and exceptional both in oral and written communication skills, as well as able to create contents to engage the community, then we would like to hear your story. 
+
+Ideal candidate would be tech-savvy professional, experienced in public relations, social media and promotional events. 
 
 ### What you bring
 
-•	You have extended experience with the entire UX design cycle
+- Outstanding verbal and written communication skill in English, other languages are a bonus 
 
-•	You have portfolio showing strong UX and visual design work
+- Provide engaging text, image and video content for social media accounts 
 
-•	You are able to effectively communicate relevant design processes, ideas and solutions to team
+- Respond to comments and queries in an accurate and prompt manner 
 
-•	You can synthesize ideas into concrete design implications 
+- Monitor and report on feedback and online reviews 
 
-•	You have experience with Zeplin or Figma, Adobe CC and similar design software
+- Coordinate with Marketing, PR and Communications teams to ensure brand consistency 
 
-### Bonus points: Blockchain or fintech experience 
-Last but not least going above and beyond the job description to support the team (and the company) success.
+- Liaise with Development and Business departments to stay updated on technical features  
+
+### Bonus points: 
+- Proven work experience as a community manager in the blockchain sector 
+
+- Command of other languages than English 
 
 ### Full remote job
 The flexibility of a 100% remote role (We’re looking for candidates located +/- 2h Berlin time zone). 
